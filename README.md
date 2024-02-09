@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rakshith
-- 🌱 I’m currently learning Data Analytics, Data SCience
+- 🌱 I’m currently learning Data Analytics, Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
