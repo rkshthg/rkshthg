@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Data Engineer, currently building my skills 
 
 ## What I Do
 
-I'm focused on developing my data engineering skills through hands-on projects and continuous learning. I'm currently working on mastering Apache Spark, exploring AWS cloud services, modelling data, and building ETL pipelines.  I'm particularly interested in data warehousing, real-time data processing, cloud-based data solutions.
+I'm focused on developing my data engineering skills through hands-on projects and continuous learning. I'm currently working on mastering Apache Spark, exploring AWS and Azure cloud services, modelling data, and building ETL pipelines.  I'm particularly interested in data warehousing, real-time data processing, cloud-based data solutions.
 
 ## My Projects
 
