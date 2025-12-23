@@ -6,15 +6,6 @@ Welcome to my GitHub profile! I'm a Data Engineer, currently building my skills 
 
 I'm focused on developing my data engineering skills through hands-on projects and continuous learning. I'm currently working on mastering Apache Spark, exploring AWS and Azure cloud services, modelling data, and building ETL pipelines.  I'm particularly interested in data warehousing, real-time data processing, cloud-based data solutions.
 
-## My Projects
-
-Here are some of my notable projects:
-
-* **AWS Data Pipeline Project:** This project implements a highly scalable data processing pipeline on AWS, designed to efficiently handle large volumes of JSON data. The pipeline reads JSON data from S3, streams it through Kinesis to Lambda for processing.  Spark on EMR transforms the data, and the refined data is written in Delta format in Delta Lake.
-  [AWS Data Pipeline Project](https://github.com/rkshthg/-AWS---Data-Processing-Pipeline)
-* **Quantium Data Analytics Job Simulation:**
-* **Bird-Strike Analysis using Power BI:**
-
 ## Skills
 
 Here are some of the technologies and tools I'm currently working with and mastering:
@@ -32,15 +23,9 @@ Here are some of the technologies and tools I'm currently working with and maste
 * Azure Data Fundamentals, Microsoft
 * SQL & Databases Bootcamp, Udemy
 
-## Extracurricular Activities
-
-* **Associate Vice President Education - Scarlet Speakers Club, Toastmasters International**
-    * Assisted VPE in organizing and leading club meetings.
-    * Developed organizational, planning, and mentoring skills.
-
 ## Get in Touch
 
-I'm eager to connect with other data professionals and learn from their experiences.  I'm always open to discussing new opportunities and collaborations. Feel free to reach out!
+I'm eager to connect with other data professionals and learn from your experiences.  I'm always open to discussing new opportunities and collaborations. Feel free to reach out!
 
 ## Thanks for visiting!
 
