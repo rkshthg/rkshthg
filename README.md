@@ -12,10 +12,12 @@
 
 ### 👨‍💻 About Me
 
-Data Engineer with expertise in designing and maintaining large-scale data systems and robust ETL pipelines. Proficient in **Python**, **advanced SQL**, and **Big Data technologies including PySpark, Delta Lake, and Databricks** on **AWS cloud infrastructure**. Experienced in managing 12TB+ enterprise database clusters at Kyndryl, executing RMAN automated backups, partitioned rebalancing, and REORGs for 99.9% uptime with a 100% resolution rate over 12,000+ tickets. Highly adaptable with a foundation in **GenAI, Multi-Agent Systems, and Agentic AI**.
+Data Engineer with expertise in designing and maintaining large-scale data systems and robust ETL pipelines. Proficient in **Python**, **advanced SQL**, and **Big Data technologies including PySpark, Delta Lake, and Databricks** on **AWS cloud infrastructure**. Experienced in managing 12TB+ enterprise database clusters at Kyndryl, executing RMAN automated backups, partitioned rebalancing, and REORGs for 99.9% uptime with a 100% resolution rate over 12,000+ tickets. Highly adaptable with a strong foundation in **GenAI, Multi-Agent Systems, and Agentic AI**.
 
 * 🔭 **Currently Building**: [HeliosGrid-Data-Pipeline](https://github.com/rkshthg/HeliosGrid-Data-Pipeline) — A Databricks Medallion Lakehouse platform governed by Unity Catalog to ingest high-frequency solar telemetry across Indian microclimates.
+
 * 🎓 **Education**: Executive PG Diploma in Data Science & AI (*Data Engineering Specialization*) at **IIIT Bangalore** & B.E. in Information Science from **CMRIT**.
+
 * ⚡ **Core Strengths**: Medallion Lakehouses (Bronze, Silver, Gold), PySpark, Delta Lake ACID upserts, Oracle/DB2 DBA tuning, AWS Serverless Data Pipelines, and Multi-Agent AI Orchestration (Google ADK 2.0 & Vertex AI).
 
 ---
@@ -79,7 +81,7 @@ Data Engineer with expertise in designing and maintaining large-scale data syste
   *International Institute of Information Technology - Bangalore (IIIT-B)* | Expected Sep 2026
 * **Bachelor of Engineering (BE) in Information Science & Engineering**  
   *CMR Institute of Technology, Bengaluru* | May 2020
-  
+
 * 🏆 **5-Day AI Agents: Intensive Vibe Coding Course With Google** — *Kaggle*
 * 🏆 **Generative AI Foundations** — *upGrad*
 * 🏆 **Power BI Data Analyst Associate** — *Microsoft*
@@ -89,6 +91,12 @@ Data Engineer with expertise in designing and maintaining large-scale data syste
 
 <div align="center">
 
+### 📊 GitHub Activity & Stats
+
+![Rakshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rkshthg&show_icons=true&theme=emerald_dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rkshthg&layout=compact&theme=emerald_dark&hide_border=true)
+
+---
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/rakshith-g-553507214) or send an email to [grkshthg@gmail.com](mailto:grkshthg@gmail.com)*
 
 </div>
